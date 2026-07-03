@@ -1,5 +1,22 @@
 # 🔐 Password Generator
 
+# 🔐 Password Generator
+
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
+![Project](https://img.shields.io/badge/Project-Password%20Generator-blueviolet)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Version](https://img.shields.io/badge/Version-v1.0-blue)
+![Platform](https://img.shields.io/badge/Platform-CLI-orange)
+![Security](https://img.shields.io/badge/Security-Secure-success)
+![Made With](https://img.shields.io/badge/Made%20With-Python-3776AB?logo=python&logoColor=white)
+![GitHub last commit](https://img.shields.io/github/last-commit/SHLOKAGARWAL8/password-generator)
+![GitHub repo size](https://img.shields.io/github/repo-size/SHLOKAGARWAL8/password-generator)
+![GitHub top language](https://img.shields.io/github/languages/top/SHLOKAGARWAL8/password-generator)
+![GitHub stars](https://img.shields.io/github/stars/SHLOKAGARWAL8/password-generator?style=social)
+![GitHub forks](https://img.shields.io/github/forks/SHLOKAGARWAL8/password-generator?style=social)
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 A secure and customizable password generator built with Python. This application allows users to generate strong passwords based on their preferences, evaluate password strength, estimate crack time, and save generated passwords for future reference.
 
 ---
